@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "The Godfather",
+    "description": "The aging head of a powerful crime family transfers control to his reluctant son.\nA sweeping crime drama about loyalty, power, family, and moral corruption."
+  },
+  {
+    "name": "The Dark Knight",
+    "description": "Batman faces a criminal mastermind determined to plunge Gotham into chaos.\nThis superhero thriller blends intense action with questions about justice and morality."
+  },
+  {
+    "name": "Spirited Away",
+    "description": "A young girl enters a mysterious spirit world after her parents are transformed.\nThe animated fantasy explores courage, identity, friendship, and growing up."
+  },
+  {
+    "name": "Parasite",
+    "description": "A struggling family enters the household of a wealthy couple through deception.\nThis dark comedy and thriller examines inequality, ambition, and class conflict."
+  },
+  {
+    "name": "Inception",
+    "description": "A skilled thief enters people's dreams to steal secrets and alter their decisions.\nThe science-fiction heist film combines action, mystery, and psychological drama."
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "description": "A banker sentenced to life in prison forms an enduring friendship with another inmate.\nThe drama follows his struggle to preserve hope, dignity, and freedom."
+  },
+  {
+    "name": "Mad Max: Fury Road",
+    "description": "A drifter and a rebel warrior flee across a wasteland with escaped prisoners.\nThe post-apocalyptic adventure delivers relentless action and a story of liberation."
+  },
+  {
+    "name": "Get Out",
+    "description": "A young man discovers disturbing secrets while visiting his girlfriend's family.\nThe horror-thriller combines suspense, satire, and observations about racism."
+  },
+  {
+    "name": "La La Land",
+    "description": "An aspiring actress and a jazz musician fall in love while pursuing their dreams.\nThe romantic musical balances colorful fantasy with the sacrifices required for success."
+  },
+  {
+    "name": "Interstellar",
+    "description": "A former pilot joins a mission through space to find a new home for humanity.\nThe science-fiction drama explores survival, time, family, and enduring love."
+  },
+  {
+    "name": "The Grand Budapest Hotel",
+    "description": "A hotel concierge and his assistant become involved in a murder mystery.\nThe comedy-adventure offers eccentric characters, precise visuals, and bittersweet nostalgia."
+  },
+  {
+    "name": "Alien",
+    "description": "The crew of a commercial spaceship encounters a deadly organism aboard their vessel.\nThe film combines science fiction and horror in a tense fight for survival."
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "description": "An FBI trainee seeks help from an imprisoned killer to catch another murderer.\nThe psychological crime thriller builds suspense through manipulation and uneasy cooperation."
+  },
+  {
+    "name": "Toy Story",
+    "description": "A cowboy toy fears being replaced when a flashy space-themed figure arrives.\nThe animated family comedy explores jealousy, friendship, loyalty, and change."
+  },
+  {
+    "name": "Gladiator",
+    "description": "A betrayed Roman general is enslaved and rises through the gladiatorial arena.\nThe historical action drama follows his pursuit of justice and revenge."
+  },
+  {
+    "name": "The Truman Show",
+    "description": "An ordinary man realizes his entire life is a carefully produced television program.\nThe comedy-drama explores freedom, privacy, identity, and manufactured reality."
+  },
+  {
+    "name": "Pan's Labyrinth",
+    "description": "A lonely girl escapes into a dangerous fantasy world during postwar Spain.\nThe dark fairy tale blends historical drama, horror, and haunting magical imagery."
+  },
+  {
+    "name": "Knives Out",
+    "description": "A detective investigates the suspicious death of a wealthy mystery novelist.\nThe comedic whodunit follows a dysfunctional family full of secrets and competing motives."
+  },
+  {
+    "name": "Whiplash",
+    "description": "An ambitious drummer studies under a ruthless instructor at an elite music school.\nThe intense drama examines obsession, abuse, perfection, and the price of greatness."
+  },
+  {
+    "name": "Arrival",
+    "description": "A linguist is recruited to communicate with mysterious visitors from another world.\nThe thoughtful science-fiction drama explores language, time, grief, and connection."
+  },
+  {
+    "name": "The Princess Bride",
+    "description": "A young hero crosses a fantasy kingdom to rescue the woman he loves.\nThe romantic adventure mixes sword fights, comedy, fairy-tale magic, and memorable characters."
+  },
+  {
+    "name": "No Country for Old Men",
+    "description": "A hunter discovers stolen money and becomes the target of a relentless killer.\nThe neo-western crime thriller examines violence, fate, and a changing world."
+  },
+  {
+    "name": "The Social Network",
+    "description": "A university student builds a social platform while damaging important relationships.\nThe biographical drama explores ambition, betrayal, innovation, and ownership."
+  },
+  {
+    "name": "Jurassic Park",
+    "description": "Visitors to a theme park must survive after cloned dinosaurs escape containment.\nThe science-fiction adventure combines wonder, suspense, horror, and blockbuster action."
+  },
+  {
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "description": "A heartbroken man undergoes a procedure to erase memories of a former relationship.\nThe romantic science-fiction drama explores love, regret, memory, and emotional pain."
+  },
+  {
+    "name": "The Exorcist",
+    "description": "A mother seeks help when her daughter appears possessed by a violent entity.\nThe supernatural horror film builds dread through faith, doubt, and psychological terror."
+  },
+  {
+    "name": "Moonlight",
+    "description": "A young man searches for identity and belonging across three stages of his life.\nThe coming-of-age drama explores masculinity, sexuality, isolation, and connection."
+  },
+  {
+    "name": "Die Hard",
+    "description": "An off-duty police officer battles armed criminals inside a captured skyscraper.\nThe action thriller combines explosive set pieces with suspense, humor, and resourcefulness."
+  },
+  {
+    "name": "The Big Lebowski",
+    "description": "A laid-back bowler is mistaken for a wealthy man and drawn into a kidnapping plot.\nThe crime comedy follows an increasingly absurd chain of misunderstandings."
+  },
+  {
+    "name": "Saving Private Ryan",
+    "description": "A group of soldiers crosses war-torn France to locate a missing paratrooper.\nThe historical war drama portrays combat, sacrifice, duty, and the human cost of conflict."
+  },
+  {
+    "name": "Black Swan",
+    "description": "A dedicated ballerina loses control while preparing for a demanding lead role.\nThe psychological thriller blends artistic ambition, body horror, obsession, and paranoia."
+  },
+  {
+    "name": "The Matrix",
+    "description": "A computer hacker discovers that humanity is trapped inside a simulated reality.\nThe science-fiction action film combines martial arts, philosophy, cyberpunk, and rebellion."
+  },
+  {
+    "name": "Little Miss Sunshine",
+    "description": "A dysfunctional family takes a road trip for their daughter's beauty contest.\nThe comedy-drama finds warmth and humor in failure, conflict, and mutual support."
+  },
+  {
+    "name": "The Good, the Bad and the Ugly",
+    "description": "Three gunslingers compete to find buried treasure during the American Civil War.\nThe epic western mixes adventure, dark humor, shifting alliances, and iconic confrontations."
+  },
+  {
+    "name": "Coco",
+    "description": "A music-loving boy enters the Land of the Dead to uncover his family's history.\nThe animated fantasy celebrates memory, culture, family, and creative passion."
+  },
+  {
+    "name": "Blade Runner 2049",
+    "description": "A synthetic police officer uncovers a secret that could transform human society.\nThe neo-noir science-fiction mystery explores identity, memory, loneliness, and artificial life."
+  },
+  {
+    "name": "The Departed",
+    "description": "An undercover officer and a criminal informant try to expose each other.\nThe crime thriller follows deception, divided loyalty, corruption, and escalating violence."
+  },
+  {
+    "name": "Pride and Prejudice",
+    "description": "An intelligent young woman clashes with a reserved aristocrat amid social expectations.\nThe period romance explores first impressions, family pressure, class, and personal growth."
+  },
+  {
+    "name": "The Thing",
+    "description": "Antarctic researchers encounter a creature capable of copying living beings.\nThe science-fiction horror film builds paranoia as trust within the group collapses."
+  },
+  {
+    "name": "School of Rock",
+    "description": "A struggling musician impersonates a teacher and turns his students into a rock band.\nThe family comedy celebrates confidence, teamwork, rebellion, and the joy of music."
+  },
+  {
+    "name": "12 Angry Men",
+    "description": "A lone juror challenges the assumptions of eleven others during a murder trial.\nThe courtroom drama explores prejudice, reasonable doubt, persuasion, and civic responsibility."
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "A young hobbit begins a dangerous journey to destroy a powerful ring.\nThe fantasy adventure follows friendship, sacrifice, courage, and the struggle against evil."
+  },
+  {
+    "name": "Jaws",
+    "description": "A police chief, a scientist, and a fisherman hunt a shark threatening a coastal town.\nThe adventure thriller combines horror, suspense, human conflict, and survival."
+  },
+  {
+    "name": "Her",
+    "description": "A lonely writer develops an intimate relationship with an advanced operating system.\nThe romantic science-fiction drama considers love, technology, loneliness, and emotional change."
+  },
+  {
+    "name": "The Raid",
+    "description": "A police squad becomes trapped inside a building controlled by a crime lord.\nThe martial-arts action thriller delivers close-quarters combat and relentless survival tension."
+  },
+  {
+    "name": "Fantastic Mr. Fox",
+    "description": "A clever fox endangers his family by stealing from three powerful farmers.\nThe stop-motion comedy combines adventure, family conflict, wit, and eccentric charm."
+  },
+  {
+    "name": "Ford v Ferrari",
+    "description": "An engineer and a fearless driver build a car capable of winning Le Mans.\nThe sports drama blends racing excitement with friendship, ambition, and corporate conflict."
+  },
+  {
+    "name": "The Sixth Sense",
+    "description": "A troubled child tells a psychologist that he can communicate with the dead.\nThe supernatural mystery combines emotional drama, psychological suspense, and horror."
+  },
+  {
+    "name": "City of God",
+    "description": "Two boys follow different paths while growing up amid organized crime in Rio.\nThe crime drama examines poverty, violence, ambition, and cycles of survival."
+  },
+  {
+    "name": "Groundhog Day",
+    "description": "A cynical television reporter becomes trapped reliving the same winter day.\nThe fantasy comedy uses repetition to explore growth, love, meaning, and redemption."
+  },
+  {
+    "name": "Pulp Fiction",
+    "description": "The lives of criminals, fighters, and ordinary people intersect across Los Angeles.\nThe nonlinear crime comedy mixes sharp dialogue, sudden violence, dark humor, and unexpected loyalty."
+  },
+  {
+    "name": "Goodfellas",
+    "description": "A young man rises through the ranks of organized crime and embraces its seductive lifestyle.\nThe crime drama follows friendship, excess, paranoia, and the consequences of living outside the law."
+  },
+  {
+    "name": "Fight Club",
+    "description": "A disillusioned office worker forms an underground fighting group with a charismatic stranger.\nThe psychological drama examines consumerism, masculinity, identity, and rebellion as their movement grows unstable."
+  },
+  {
+    "name": "Forrest Gump",
+    "description": "A kindhearted man unexpectedly takes part in several defining moments of American history.\nThe comedy-drama follows love, friendship, loss, and perseverance through his unusual life."
+  },
+  {
+    "name": "Se7en",
+    "description": "Two detectives pursue a methodical killer whose crimes follow a disturbing moral pattern.\nThe dark crime thriller explores obsession, despair, justice, and the violence hidden within a city."
+  },
+  {
+    "name": "Memento",
+    "description": "A man with severe short-term memory loss searches for the person responsible for a personal tragedy.\nThe nonlinear mystery examines memory, identity, evidence, and the stories people tell themselves."
+  },
+  {
+    "name": "The Prestige",
+    "description": "Two rival magicians become consumed by the need to outperform and expose each other.\nThe period mystery combines invention, sacrifice, deception, and obsession with increasingly dangerous consequences."
+  },
+  {
+    "name": "The Shining",
+    "description": "A family spends the winter inside an isolated hotel where unsettling forces begin to emerge.\nThe psychological horror film builds dread through loneliness, fractured relationships, and an uncertain supernatural presence."
+  },
+  {
+    "name": "Raiders of the Lost Ark",
+    "description": "An adventurous archaeologist races hostile forces to recover a legendary ancient artifact.\nThe action adventure combines globe-trotting discovery, danger, humor, and old-fashioned serial excitement."
+  },
+  {
+    "name": "Back to the Future",
+    "description": "A teenager accidentally travels into the past and disrupts the events that created his family.\nThe science-fiction comedy blends time travel, romance, friendship, and energetic adventure."
+  },
+  {
+    "name": "Terminator 2: Judgment Day",
+    "description": "A reprogrammed machine protects a young boy whose future actions could determine humanity's survival.\nThe science-fiction action film combines spectacular pursuit sequences with questions about fate and human choice."
+  },
+  {
+    "name": "The Lion King",
+    "description": "A young lion prince must confront grief and responsibility before reclaiming his place at home.\nThe animated musical explores family, identity, courage, and the natural cycle of life."
+  },
+  {
+    "name": "WALL-E",
+    "description": "A lonely waste-collecting robot discovers companionship and a purpose beyond his abandoned planet.\nThe animated science-fiction romance considers environmental neglect, consumerism, curiosity, and human connection."
+  },
+  {
+    "name": "Spider-Man: Into the Spider-Verse",
+    "description": "A teenager learning to be a hero meets alternate versions of Spider-Man from other realities.\nThe animated superhero adventure celebrates individuality, mentorship, family, and the courage to begin."
+  },
+  {
+    "name": "Everything Everywhere All at Once",
+    "description": "A stressed laundromat owner discovers that she can access the lives and abilities of alternate selves.\nThe science-fiction comedy blends martial arts, family drama, absurdity, and an emotional search for meaning."
+  },
+  {
+    "name": "Pather Panchali",
+    "description": "A boy grows up in a poor rural Bengali family surrounded by hardship, discovery, and affection.\nThe humanist drama observes childhood, family bonds, nature, and the quiet pressures of poverty."
+  },
+  {
+    "name": "Aparajito",
+    "description": "A growing boy moves from village life toward education while his relationship with his mother changes.\nThe coming-of-age drama explores ambition, separation, family duty, and the cost of moving forward."
+  },
+  {
+    "name": "Apur Sansar",
+    "description": "A struggling young writer enters an unexpected marriage that transforms his understanding of love and responsibility.\nThe intimate drama completes a journey through adulthood, grief, parenthood, and renewal."
+  },
+  {
+    "name": "Sholay",
+    "description": "A retired officer hires two small-time criminals to capture the bandit terrorizing a rural community.\nThe action drama combines friendship, revenge, romance, comedy, and the scale of a classic western."
+  },
+  {
+    "name": "Lagaan",
+    "description": "Villagers under colonial rule challenge British officers to a cricket match with their taxes at stake.\nThe historical sports drama blends teamwork, resistance, romance, music, and national pride."
+  },
+  {
+    "name": "3 Idiots",
+    "description": "Three engineering students navigate academic pressure while questioning what education and success should mean.\nThe comedy-drama celebrates friendship, curiosity, personal choice, and learning beyond competition."
+  },
+  {
+    "name": "Dangal",
+    "description": "A former wrestler trains his daughters to compete in a sport dominated by men.\nThe biographical sports drama explores discipline, family expectations, gender barriers, and determination."
+  },
+  {
+    "name": "Gangs of Wasseypur",
+    "description": "Rival families wage a decades-long struggle for power across a changing coal-mining region.\nThe sprawling crime saga mixes revenge, politics, dark humor, and generational violence."
+  },
+  {
+    "name": "Queen",
+    "description": "A sheltered young woman takes her planned honeymoon alone after her wedding is cancelled.\nThe comedy-drama follows independence, friendship, cultural discovery, and growing confidence."
+  },
+  {
+    "name": "Andhadhun",
+    "description": "A pianist pretending to be blind becomes entangled in a crime he may have witnessed.\nThe black comedy thriller uses shifting motives, deception, coincidence, and suspense."
+  },
+  {
+    "name": "Kahaani",
+    "description": "A pregnant woman searches crowded Kolkata for her missing husband while officials question his existence.\nThe mystery thriller builds tension through hidden identities, urban atmosphere, and determined investigation."
+  },
+  {
+    "name": "Zindagi Na Milegi Dobara",
+    "description": "Three longtime friends take a road trip through Spain before one of them gets married.\nThe comedy-drama explores friendship, fear, love, work, and the value of living fully."
+  },
+  {
+    "name": "Taare Zameen Par",
+    "description": "A misunderstood schoolboy struggles in class until an observant teacher recognizes how he experiences the world.\nThe family drama examines education, creativity, childhood pressure, and compassionate mentorship."
+  },
+  {
+    "name": "Dil Chahta Hai",
+    "description": "Three close friends follow different paths through love, adulthood, and changing priorities.\nThe coming-of-age comedy-drama captures modern relationships, loyalty, conflict, and emotional maturity."
+  },
+  {
+    "name": "Swades",
+    "description": "An Indian scientist working abroad returns to a village and confronts the inequalities affecting everyday life.\nThe social drama explores belonging, responsibility, development, and the meaning of home."
+  },
+  {
+    "name": "Rang De Basanti",
+    "description": "Carefree university friends portray historical revolutionaries and gradually reconsider their own civic responsibilities.\nThe political drama connects youth, friendship, injustice, sacrifice, and public action."
+  },
+  {
+    "name": "The Lunchbox",
+    "description": "A mistaken lunch delivery begins an intimate correspondence between two lonely people in Mumbai.\nThe quiet romantic drama explores routine, missed connections, hope, and emotional companionship."
+  },
+  {
+    "name": "Masaan",
+    "description": "Several lives intersect along the Ganges as people confront grief, stigma, love, and social boundaries.\nThe drama portrays personal dignity and renewal within the pressures of tradition and class."
+  },
+  {
+    "name": "Tumbbad",
+    "description": "A family's obsession with a hidden treasure draws generations toward an ancient source of greed.\nThe period folk-horror film blends mythology, atmospheric fantasy, moral corruption, and striking visual design."
+  },
+  {
+    "name": "Drishyam",
+    "description": "A devoted father uses his knowledge of movies to protect his family after a dangerous incident.\nThe Malayalam crime thriller centers on planning, memory, investigation, and moral ambiguity."
+  },
+  {
+    "name": "Kumbalangi Nights",
+    "description": "Four troubled brothers living together slowly rebuild their relationships and sense of family.\nThe Malayalam drama combines humor, romance, masculinity, domestic conflict, and quiet emotional healing."
+  },
+  {
+    "name": "Bangalore Days",
+    "description": "Three cousins pursue work, love, and independence after moving through life in Bangalore.\nThe Malayalam ensemble drama celebrates friendship, family, urban aspirations, and second chances."
+  },
+  {
+    "name": "Super Deluxe",
+    "description": "Several unpredictable stories unfold across one day as ordinary people confront secrets and social judgment.\nThe Tamil dark comedy mixes crime, family drama, absurdity, and questions about morality."
+  },
+  {
+    "name": "Vikram Vedha",
+    "description": "A determined police officer hunts a clever criminal who challenges him with morally complicated stories.\nThe Tamil crime thriller examines justice, perspective, loyalty, and the uncertain line between right and wrong."
+  },
+  {
+    "name": "Jai Bhim",
+    "description": "A lawyer fights for a marginalized woman whose husband disappears after being taken into police custody.\nThe legal drama confronts institutional violence, caste discrimination, courage, and accountability."
+  },
+  {
+    "name": "Baahubali: The Beginning",
+    "description": "A strong young man discovers that his origins are connected to a powerful and divided kingdom.\nThe epic fantasy combines royal intrigue, romance, warfare, loyalty, and spectacular action."
+  },
+  {
+    "name": "Baahubali 2: The Conclusion",
+    "description": "The history of a fallen prince reveals the betrayals that reshaped a kingdom and its people.\nThe epic action drama expands its story of duty, love, sacrifice, and political ambition."
+  },
+  {
+    "name": "RRR",
+    "description": "Two formidable men form a friendship while secretly pursuing opposing missions under colonial rule.\nThe historical action spectacle blends brotherhood, rebellion, music, mythic heroism, and extravagant set pieces."
+  },
+  {
+    "name": "Eega",
+    "description": "A murdered man returns as a housefly and attempts to protect the woman he loves.\nThe Telugu fantasy comedy turns revenge into an inventive mixture of romance, action, and visual imagination."
+  },
+  {
+    "name": "Sairat",
+    "description": "Two young people from different social backgrounds fall in love despite entrenched opposition.\nThe Marathi romantic drama examines caste, youthful freedom, family pressure, and harsh social realities."
+  },
+  {
+    "name": "Seven Samurai",
+    "description": "A farming village hires wandering warriors to defend its people from a returning group of bandits.\nThe epic historical adventure explores leadership, class, sacrifice, teamwork, and the realities of combat."
+  },
+  {
+    "name": "Rashomon",
+    "description": "Several witnesses recount incompatible versions of a violent encounter in a forest.\nThe psychological period drama examines truth, memory, self-interest, and the difficulty of objective judgment."
+  },
+  {
+    "name": "Tokyo Story",
+    "description": "An elderly couple visits their adult children and quietly discovers how distant the family has become.\nThe domestic drama observes generational change, disappointment, kindness, and the passage of time."
+  },
+  {
+    "name": "Harakiri",
+    "description": "A wandering samurai enters a feudal household and challenges the values behind its public honor.\nThe period drama combines controlled tension, social criticism, tragedy, and moral confrontation."
+  },
+  {
+    "name": "Ikiru",
+    "description": "A weary civil servant reevaluates his life after learning that his remaining time is limited.\nThe drama explores bureaucracy, purpose, mortality, compassion, and the possibility of meaningful action."
+  },
+  {
+    "name": "Shoplifters",
+    "description": "A struggling household survives through petty theft while offering care to an isolated child.\nThe family drama questions legality, belonging, poverty, and what truly makes people a family."
+  },
+  {
+    "name": "Drive My Car",
+    "description": "A theatre director forms a restrained connection with the young woman assigned to drive him.\nThe contemplative drama explores grief, performance, communication, and the truths hidden within relationships."
+  },
+  {
+    "name": "Your Name",
+    "description": "Two teenagers living far apart discover that they sometimes awaken in each other's bodies.\nThe animated romantic fantasy blends adolescence, memory, fate, and a connection across distance."
+  },
+  {
+    "name": "Princess Mononoke",
+    "description": "A young warrior becomes caught between an industrial settlement and the spirits defending a forest.\nThe animated fantasy examines environmental conflict, violence, compassion, and competing visions of survival."
+  },
+  {
+    "name": "Grave of the Fireflies",
+    "description": "Two siblings struggle to survive in Japan during the final months of the Second World War.\nThe animated war drama portrays love, hunger, loss, and the devastating effects of conflict on civilians."
+  },
+  {
+    "name": "Akira",
+    "description": "A biker in a futuristic city gains destructive abilities after a military encounter.\nThe animated cyberpunk film combines political unrest, friendship, body horror, and uncontrolled technological power."
+  },
+  {
+    "name": "Battle Royale",
+    "description": "A class of students is forced by an authoritarian government into a deadly survival competition.\nThe dystopian action thriller examines fear, trust, youth, and institutional violence."
+  },
+  {
+    "name": "Godzilla Minus One",
+    "description": "A traumatized veteran encounters a colossal threat while Japan struggles to recover from war.\nThe monster drama combines large-scale destruction with guilt, community, survival, and personal redemption."
+  },
+  {
+    "name": "Oldboy",
+    "description": "A man imprisoned without explanation is suddenly released and driven to discover who controlled his life.\nThe Korean revenge thriller explores obsession, memory, violence, and manipulation."
+  },
+  {
+    "name": "Memories of Murder",
+    "description": "Detectives with conflicting methods investigate a series of killings in a rural Korean province.\nThe crime drama blends procedural tension, dark humor, institutional failure, and haunting uncertainty."
+  },
+  {
+    "name": "The Handmaiden",
+    "description": "A young woman enters a wealthy household as part of an elaborate scheme involving an isolated heiress.\nThe period thriller combines romance, deception, power, and shifting perspectives."
+  },
+  {
+    "name": "Train to Busan",
+    "description": "Passengers aboard a fast-moving train struggle to survive as a violent outbreak spreads across Korea.\nThe horror action film combines urgency, family conflict, sacrifice, and social tension."
+  },
+  {
+    "name": "Burning",
+    "description": "A directionless young man becomes suspicious of a wealthy stranger connected to someone he cares about.\nThe slow-burning mystery examines class, jealousy, uncertainty, and hidden resentment."
+  },
+  {
+    "name": "Decision to Leave",
+    "description": "A detective investigating a suspicious death becomes emotionally entangled with the victim's enigmatic wife.\nThe romantic mystery explores desire, duty, observation, and ambiguity."
+  },
+  {
+    "name": "A Taxi Driver",
+    "description": "A Seoul cab driver unknowingly carries a foreign reporter toward a city under military repression.\nThe historical drama follows ordinary courage, political awakening, friendship, and the importance of witnessing."
+  },
+  {
+    "name": "The Wailing",
+    "description": "A rural policeman investigates a wave of illness and violence linked to a mysterious outsider.\nThe supernatural horror film blends folklore, family desperation, suspicion, and religious uncertainty."
+  },
+  {
+    "name": "Infernal Affairs",
+    "description": "A police officer inside a criminal organization and a criminal mole inside the police race to remain hidden.\nThe Hong Kong thriller explores identity, loyalty, surveillance, and divided allegiance."
+  },
+  {
+    "name": "In the Mood for Love",
+    "description": "Two neighbors form a restrained bond after suspecting that their spouses share a secret relationship.\nThe romantic drama captures longing, loneliness, memory, and emotions constrained by circumstance."
+  },
+  {
+    "name": "Chungking Express",
+    "description": "Two lovelorn police officers cross paths with unusual women in the restless streets of Hong Kong.\nThe romantic comedy-drama explores chance, solitude, urban rhythm, and fleeting connection."
+  },
+  {
+    "name": "Police Story",
+    "description": "A dedicated Hong Kong officer tries to protect a witness while clearing his own name.\nThe action comedy combines elaborate stunts, physical humor, corruption, and relentless pursuit."
+  },
+  {
+    "name": "Shaolin Soccer",
+    "description": "A former martial artist assembles an unconventional football team using spectacular kung fu skills.\nThe sports comedy mixes underdog energy, slapstick, friendship, and playful fantasy."
+  },
+  {
+    "name": "Crouching Tiger, Hidden Dragon",
+    "description": "A stolen sword draws warriors and aristocrats into a conflict shaped by secret desires and old loyalties.\nThe martial-arts romance combines graceful action, duty, freedom, and unfulfilled love."
+  },
+  {
+    "name": "Hero",
+    "description": "A warrior recounts how he defeated three legendary assassins threatening the ruler of ancient China.\nThe visually rich martial-arts drama examines sacrifice, truth, political unity, and personal conviction."
+  },
+  {
+    "name": "Farewell My Concubine",
+    "description": "Two opera performers share a turbulent lifelong bond shaped by art and political upheaval.\nThe historical drama explores identity, devotion, betrayal, and the pressures of a changing China."
+  },
+  {
+    "name": "Raise the Red Lantern",
+    "description": "A young woman becomes one of several wives inside a wealthy and highly controlled household.\nThe period drama examines hierarchy, jealousy, ritual, and the confinement created by patriarchal power."
+  },
+  {
+    "name": "A Better Tomorrow",
+    "description": "Two brothers stand on opposite sides of the law while criminal loyalties pull their family apart.\nThe Hong Kong action drama blends brotherhood, honor, redemption, and stylized gunplay."
+  },
+  {
+    "name": "Yi Yi",
+    "description": "Members of a Taipei family experience love, disappointment, illness, and change across several generations.\nThe ensemble drama observes everyday life, missed possibilities, family bonds, and quiet self-discovery."
+  },
+  {
+    "name": "A Brighter Summer Day",
+    "description": "A Taiwanese teenager becomes caught between school, family expectations, romance, and youth gangs.\nThe coming-of-age epic explores identity, displacement, violence, and social uncertainty."
+  },
+  {
+    "name": "Eat Drink Man Woman",
+    "description": "An aging chef and his three adult daughters navigate changing relationships over elaborate family meals.\nThe comedy-drama connects food, tradition, love, independence, and generational change."
+  },
+  {
+    "name": "The Wandering Earth",
+    "description": "Humanity builds enormous engines to move Earth away from an expanding cosmic threat.\nThe Chinese science-fiction adventure combines planetary survival, family sacrifice, engineering, and large-scale spectacle."
+  },
+  {
+    "name": "Bicycle Thieves",
+    "description": "An unemployed father searches postwar Rome for the stolen bicycle required for his new job.\nThe neorealist drama portrays poverty, dignity, parenthood, and the fragile hope attached to ordinary work."
+  },
+  {
+    "name": "Cinema Paradiso",
+    "description": "A filmmaker remembers his childhood friendship with the projectionist at a small Sicilian cinema.\nThe nostalgic drama celebrates movies, community, first love, mentorship, and the ache of leaving home."
+  },
+  {
+    "name": "Life Is Beautiful",
+    "description": "A loving father uses humor and imagination to shield his child from the horrors surrounding them.\nThe Italian comedy-drama combines family devotion, resilience, historical tragedy, and bittersweet hope."
+  },
+  {
+    "name": "La Dolce Vita",
+    "description": "A journalist moves through Rome's glamorous nightlife while searching for satisfaction and direction.\nThe Italian drama examines celebrity, desire, spiritual emptiness, and modern social life."
+  },
+  {
+    "name": "8½",
+    "description": "A celebrated director retreats into memories and fantasies while struggling to begin his next film.\nThe Italian comedy-drama explores creativity, relationships, anxiety, and the confusion behind artistic identity."
+  },
+  {
+    "name": "The Lives of Others",
+    "description": "An East German surveillance officer monitors a playwright and gradually questions the system he serves.\nThe political drama examines privacy, conscience, art, loyalty, and moral change."
+  },
+  {
+    "name": "Run Lola Run",
+    "description": "A young woman races through Berlin to obtain money that could save her boyfriend's life.\nThe kinetic thriller experiments with time, chance, repetition, and the consequences of tiny decisions."
+  },
+  {
+    "name": "Downfall",
+    "description": "The final days of Nazi leadership unfold inside a Berlin bunker as the regime collapses.\nThe historical drama portrays fanaticism, denial, fear, and the human behavior surrounding political catastrophe."
+  },
+  {
+    "name": "Amélie",
+    "description": "A shy Parisian waitress secretly improves other people's lives while avoiding her own emotional risks.\nThe romantic comedy blends whimsy, loneliness, imagination, and the courage to connect."
+  },
+  {
+    "name": "La Haine",
+    "description": "Three friends wander the outskirts of Paris after unrest leaves their community tense and angry.\nThe French drama examines policing, inequality, friendship, masculinity, and cycles of violence."
+  },
+  {
+    "name": "The Intouchables",
+    "description": "A wealthy man with a disability forms an unlikely friendship with his unconventional new caregiver.\nThe French comedy-drama explores companionship, dignity, humor, and lives changed through mutual trust."
+  },
+  {
+    "name": "Portrait of a Lady on Fire",
+    "description": "A painter observes a young woman in secret while creating a portrait tied to an arranged marriage.\nThe French period romance explores art, memory, desire, freedom, and the experience of being seen."
+  },
+  {
+    "name": "Anatomy of a Fall",
+    "description": "A writer faces intense scrutiny after her husband dies under uncertain circumstances at their remote home.\nThe courtroom drama examines marriage, evidence, perception, and the limits of knowing another person."
+  },
+  {
+    "name": "The 400 Blows",
+    "description": "A neglected Parisian boy drifts between school trouble, family conflict, and attempts at freedom.\nThe coming-of-age drama portrays adolescence, authority, loneliness, and resistance with emotional honesty."
+  },
+  {
+    "name": "The Umbrellas of Cherbourg",
+    "description": "Two young lovers are separated by military service and the practical pressures of adult life.\nThe French musical uses continuous song and vivid color to explore romance, waiting, and compromise."
+  },
+  {
+    "name": "The Seventh Seal",
+    "description": "A medieval knight returning from war confronts Death while searching for meaning during a plague.\nThe Swedish allegorical drama considers faith, doubt, mortality, compassion, and human connection."
+  },
+  {
+    "name": "Persona",
+    "description": "A silent actress and the nurse caring for her develop an intense and increasingly unstable relationship.\nThe Swedish psychological drama explores identity, performance, intimacy, and the boundaries between selves."
+  },
+  {
+    "name": "Another Round",
+    "description": "Four teachers test a theory that maintaining a small amount of alcohol will improve their lives.\nThe Danish comedy-drama explores friendship, aging, dissatisfaction, risk, and renewed appetite for experience."
+  },
+  {
+    "name": "The Hunt",
+    "description": "A teacher in a close-knit Danish community becomes the target of a devastating accusation.\nThe drama examines trust, panic, reputation, and the speed with which suspicion becomes collective certainty."
+  },
+  {
+    "name": "Let the Right One In",
+    "description": "A lonely bullied boy forms a bond with a mysterious child who moves into his neighborhood.\nThe Swedish horror romance combines tenderness, violence, isolation, and supernatural unease."
+  },
+  {
+    "name": "The Worst Person in the World",
+    "description": "A young woman in Oslo moves through relationships and careers while trying to understand what she wants.\nThe romantic comedy-drama explores uncertainty, adulthood, love, ambition, and regret."
+  },
+  {
+    "name": "The Girl with the Dragon Tattoo",
+    "description": "A journalist and a gifted investigator examine the decades-old disappearance of a wealthy family's daughter.\nThe Swedish mystery thriller explores corruption, trauma, secrecy, and determined truth-seeking."
+  },
+  {
+    "name": "All About My Mother",
+    "description": "A grieving mother travels to Barcelona and builds new relationships among performers and outsiders.\nThe Spanish drama explores motherhood, identity, friendship, performance, and chosen family."
+  },
+  {
+    "name": "Talk to Her",
+    "description": "Two men caring for women in comas form a friendship shaped by loneliness and difficult moral boundaries.\nThe Spanish drama examines communication, obsession, intimacy, and emotional isolation."
+  },
+  {
+    "name": "The Sea Inside",
+    "description": "A man living with paralysis campaigns for the right to determine the course of his own life.\nThe Spanish biographical drama explores autonomy, dignity, love, faith, and competing ideas of compassion."
+  },
+  {
+    "name": "The Pianist",
+    "description": "A Jewish musician struggles to survive the destruction and occupation of Warsaw during the Second World War.\nThe historical drama portrays endurance, isolation, chance, and the fragile refuge offered by art."
+  },
+  {
+    "name": "Ida",
+    "description": "A young novice in 1960s Poland learns a family secret before taking her religious vows.\nThe black-and-white drama explores identity, history, faith, grief, and lives shaped by war."
+  },
+  {
+    "name": "Cold War",
+    "description": "A musician and a singer pursue a passionate, troubled relationship across borders and political divisions.\nThe Polish romantic drama connects music, exile, desire, and the difficulty of building a shared life."
+  },
+  {
+    "name": "Come and See",
+    "description": "A Belarusian teenager joins resistance fighters and witnesses the brutal destruction of wartime occupation.\nThe anti-war drama presents fear, trauma, lost innocence, and violence without heroic comfort."
+  },
+  {
+    "name": "Stalker",
+    "description": "A guide leads two men through a forbidden landscape believed to contain a room that grants deepest wishes.\nThe philosophical science-fiction film explores faith, desire, uncertainty, and humanity's search for meaning."
+  },
+  {
+    "name": "Bad Genius",
+    "description": "A brilliant student turns academic cheating into a sophisticated operation with increasingly high stakes.\nThe Thai thriller combines school pressure, class inequality, friendship, and heist-like suspense."
+  },
+  {
+    "name": "On the Job",
+    "description": "Prisoners are temporarily released to perform contract killings while investigators follow the hidden network behind them.\nThe Filipino crime thriller examines corruption, power, survival, and compromised institutions."
+  },
+  {
+    "name": "Ilo Ilo",
+    "description": "A Singaporean family facing financial strain hires a domestic worker who bonds with their difficult son.\nThe drama explores class, migration, childhood, caregiving, and tensions inside an ordinary household."
+  },
+  {
+    "name": "The Scent of Green Papaya",
+    "description": "A young servant quietly observes the routines and relationships within a Vietnamese household.\nThe sensory drama finds beauty in domestic life, changing affection, nature, and patient attention."
+  },
+  {
+    "name": "Uncle Boonmee Who Can Recall His Past Lives",
+    "description": "A dying man spends his final days among relatives, spirits, and memories of earlier existences.\nThe Thai fantasy drama blends reincarnation, nature, family, politics, and dreamlike reflection."
+  },
+  {
+    "name": "The Secret in Their Eyes",
+    "description": "A retired investigator revisits an unresolved murder case and the emotions that shaped his earlier life.\nThe Argentine mystery combines romance, memory, justice, political tension, and long-held regret."
+  },
+  {
+    "name": "Wild Tales",
+    "description": "Six darkly comic stories follow ordinary people pushed beyond the limits of patience and restraint.\nThe Argentine anthology explores revenge, inequality, bureaucracy, anger, and social pressure."
+  },
+  {
+    "name": "Nine Queens",
+    "description": "Two con artists meet in Buenos Aires and attempt an elaborate deal involving rare stamps.\nThe Argentine crime comedy builds tension through deception, shifting trust, quick improvisation, and competing schemes."
+  },
+  {
+    "name": "The Official Story",
+    "description": "A history teacher begins questioning her adopted daughter's origins during Argentina's return to democracy.\nThe political drama examines denial, family, state violence, memory, and moral awakening."
+  },
+  {
+    "name": "Amores Perros",
+    "description": "A car crash connects several lives across Mexico City, each shaped by love, ambition, and loss.\nThe interwoven drama explores class, loyalty, violence, and the consequences of desperate choices."
+  },
+  {
+    "name": "Y Tu Mamá También",
+    "description": "Two teenage friends travel across Mexico with an older woman and discover tensions beneath their carefree lives.\nThe road drama examines desire, friendship, class, adulthood, and social inequality."
+  },
+  {
+    "name": "Roma",
+    "description": "A domestic worker cares for a middle-class family during a year of personal and political upheaval in Mexico City.\nThe intimate drama explores labor, motherhood, class, memory, and resilience."
+  },
+  {
+    "name": "The Motorcycle Diaries",
+    "description": "Two young men travel across South America and encounter communities far removed from their privileged lives.\nThe biographical road drama follows friendship, discovery, inequality, and growing political awareness."
+  },
+  {
+    "name": "Central Station",
+    "description": "A cynical letter writer reluctantly helps a boy search across Brazil for the father he has never known.\nThe road drama explores grief, trust, poverty, companionship, and unexpected tenderness."
+  },
+  {
+    "name": "Elite Squad",
+    "description": "A police captain searches for a replacement while confronting violent crime and corruption in Rio de Janeiro.\nThe Brazilian action drama examines institutional brutality, fear, loyalty, and moral compromise."
+  },
+  {
+    "name": "Bacurau",
+    "description": "Residents of a remote Brazilian town discover that their community has vanished from maps and attracted dangerous outsiders.\nThe genre-blending thriller combines resistance, western imagery, political satire, and collective survival."
+  },
+  {
+    "name": "Aquarius",
+    "description": "A retired music critic refuses to leave her apartment when developers attempt to take control of the building.\nThe Brazilian drama explores memory, property, aging, class, and personal resistance."
+  },
+  {
+    "name": "A Fantastic Woman",
+    "description": "A transgender singer faces grief and hostility after the sudden death of her partner.\nThe Chilean drama examines dignity, identity, prejudice, love, and the right to mourn."
+  },
+  {
+    "name": "No",
+    "description": "An advertising executive helps design an optimistic campaign against Chile's military dictatorship.\nThe political drama explores media strategy, public memory, compromise, and democratic change."
+  },
+  {
+    "name": "The Club",
+    "description": "Disgraced priests living in an isolated coastal house face scrutiny after a visitor disrupts their routine.\nThe Chilean drama examines institutional secrecy, guilt, denial, and moral accountability."
+  },
+  {
+    "name": "Embrace of the Serpent",
+    "description": "An Amazonian shaman guides two scientists through the rainforest on journeys separated by decades.\nThe Colombian adventure drama explores colonialism, memory, cultural loss, nature, and spiritual knowledge."
+  },
+  {
+    "name": "Monos",
+    "description": "Teenage commandos guard a captive and a valuable animal in an isolated Latin American landscape.\nThe war drama blends survival, group psychology, adolescence, and the breakdown of authority."
+  },
+  {
+    "name": "The Headless Woman",
+    "description": "An affluent woman becomes uncertain about what happened after a disturbing incident on a quiet road.\nThe Argentine psychological drama explores guilt, denial, class protection, and fragmented perception."
+  },
+  {
+    "name": "Argentina, 1985",
+    "description": "A legal team prosecutes leaders of Argentina's military dictatorship during the country's fragile return to democracy.\nThe courtroom drama emphasizes evidence, courage, public memory, and institutional justice."
+  },
+  {
+    "name": "Society of the Snow",
+    "description": "Survivors of a plane crash in the Andes confront extreme conditions and difficult collective decisions.\nThe survival drama focuses on endurance, cooperation, grief, faith, and human responsibility."
+  },
+  {
+    "name": "The Second Mother",
+    "description": "A live-in housekeeper's carefully ordered life changes when her confident daughter comes to stay.\nThe Brazilian drama examines class boundaries, domestic labor, motherhood, and social mobility."
+  },
+  {
+    "name": "The Milk of Sorrow",
+    "description": "A young Peruvian woman living with inherited fear seeks independence after a death in her family.\nThe drama explores trauma, cultural memory, exploitation, and gradual self-possession."
+  },
+  {
+    "name": "A Separation",
+    "description": "An Iranian couple's marital dispute draws two families into an escalating moral and legal conflict.\nThe drama examines truth, class, faith, caregiving, and the consequences of partial knowledge."
+  },
+  {
+    "name": "Children of Heaven",
+    "description": "A boy and his sister secretly share one pair of shoes after hers is accidentally lost.\nThe Iranian family drama finds suspense and tenderness in childhood responsibility, poverty, and sibling devotion."
+  },
+  {
+    "name": "The Salesman",
+    "description": "A married couple's relationship changes after a troubling incident in their new apartment.\nThe Iranian drama explores dignity, revenge, performance, trust, and conflicting responses to trauma."
+  },
+  {
+    "name": "Taste of Cherry",
+    "description": "A man drives around Tehran searching for someone willing to assist with a deeply personal plan.\nThe Iranian drama reflects on mortality, compassion, choice, and the ordinary textures of life."
+  },
+  {
+    "name": "Capernaum",
+    "description": "A neglected child survives on the streets of Beirut and challenges the adults responsible for his circumstances.\nThe Lebanese drama examines poverty, migration, childhood, and institutional abandonment."
+  },
+  {
+    "name": "Wadjda",
+    "description": "A spirited Saudi girl enters a school competition hoping to earn enough money for a bicycle.\nThe coming-of-age drama explores determination, gender expectations, family, and everyday resistance."
+  },
+  {
+    "name": "The Battle of Algiers",
+    "description": "Resistance fighters and French forces struggle for control during Algeria's fight for independence.\nThe historical drama presents urban warfare, colonialism, political organization, and civilian consequences with documentary intensity."
+  },
+  {
+    "name": "Timbuktu",
+    "description": "Residents near an ancient Malian city endure daily life under the restrictive rule of armed extremists.\nThe drama portrays cultural resilience, faith, family, oppression, and quiet forms of resistance."
+  },
+  {
+    "name": "Tsotsi",
+    "description": "A violent young criminal in Johannesburg is forced to confront responsibility after an impulsive act.\nThe South African drama explores poverty, trauma, empathy, and the possibility of change."
+  },
+  {
+    "name": "District 9",
+    "description": "Alien refugees confined near Johannesburg become the center of political, corporate, and social conflict.\nThe science-fiction thriller uses action and body horror to examine segregation, exploitation, and prejudice."
+  },
+  {
+    "name": "Hunt for the Wilderpeople",
+    "description": "A rebellious boy and his reluctant foster uncle become the subjects of a wilderness search across New Zealand.\nThe adventure comedy combines found family, grief, survival, and offbeat humor."
+  },
+  {
+    "name": "The Piano",
+    "description": "A mute pianist arrives in nineteenth-century New Zealand for an arranged marriage and struggles for autonomy.\nThe period drama explores desire, expression, power, isolation, and emotional freedom."
+  },
+  {
+    "name": "Theeb",
+    "description": "A Bedouin boy crosses the Arabian desert during wartime and is forced into unfamiliar dangers.\nThe Jordanian coming-of-age western explores survival, trust, tradition, and a changing region."
+  },
+  {
+    "name": "Blade Runner",
+    "description": "A weary detective hunts artificial humans hiding in a rain-soaked future city.\nThe science-fiction noir examines memory, identity, mortality, and what it means to be human."
+  },
+  {
+    "name": "2001: A Space Odyssey",
+    "description": "A mysterious object connects humanity's distant past to a perilous voyage beyond Earth.\nThe cerebral science-fiction epic explores evolution, technology, isolation, and the unknown."
+  },
+  {
+    "name": "The Martian",
+    "description": "An astronaut stranded on Mars relies on science and ingenuity while Earth plans a rescue.\nThe survival adventure balances technical problem-solving, humor, teamwork, and hope."
+  },
+  {
+    "name": "Gravity",
+    "description": "Two astronauts struggle to survive after disaster leaves them drifting above Earth.\nThe tense space thriller focuses on isolation, resilience, grief, and the will to return home."
+  },
+  {
+    "name": "Edge of Tomorrow",
+    "description": "A reluctant soldier repeatedly relives the same battle against an alien invasion.\nThe science-fiction action film combines time loops, dark humor, teamwork, and personal growth."
+  },
+  {
+    "name": "Ex Machina",
+    "description": "A programmer is invited to evaluate an advanced artificial intelligence in a secluded home.\nThe intimate thriller probes consciousness, manipulation, power, and the ethics of creation."
+  },
+  {
+    "name": "Children of Men",
+    "description": "In a world facing human extinction, a disillusioned man protects an unexpected source of hope.\nThe dystopian thriller explores migration, authoritarianism, sacrifice, and fragile optimism."
+  },
+  {
+    "name": "Minority Report",
+    "description": "A police officer enforcing prediction-based justice becomes accused of a future crime.\nThe science-fiction mystery questions free will, surveillance, guilt, and institutional power."
+  },
+  {
+    "name": "E.T. the Extra-Terrestrial",
+    "description": "A lonely child secretly befriends a gentle alien stranded far from home.\nThe family science-fiction adventure celebrates friendship, empathy, wonder, and saying goodbye."
+  },
+  {
+    "name": "Contact",
+    "description": "A determined astronomer detects a message that may prove humanity is not alone.\nThe thoughtful science-fiction drama considers faith, evidence, wonder, and our place in the universe."
+  },
+  {
+    "name": "Moon",
+    "description": "A solitary worker nearing the end of a lunar assignment begins questioning his reality.\nThe restrained science-fiction mystery explores identity, labor, memory, and corporate control."
+  },
+  {
+    "name": "The Terminator",
+    "description": "A relentless machine arrives from the future to alter the course of human history.\nThe lean science-fiction thriller blends pursuit, fate, technology, and survival."
+  },
+  {
+    "name": "RoboCop",
+    "description": "A critically injured officer is transformed into a corporate-controlled law-enforcement machine.\nThe satirical action film examines identity, privatization, media, and dehumanizing violence."
+  },
+  {
+    "name": "Total Recall",
+    "description": "A construction worker's implanted vacation memories uncover doubts about his identity and past.\nThe science-fiction action mystery plays with reality, rebellion, paranoia, and personal choice."
+  },
+  {
+    "name": "Starship Troopers",
+    "description": "Young recruits join a militarized society's interplanetary war against an insect-like enemy.\nThe action spectacle uses satire to examine propaganda, citizenship, conformity, and fascism."
+  },
+  {
+    "name": "Planet of the Apes",
+    "description": "Astronauts land on a strange world where intelligent apes dominate human survivors.\nThe science-fiction adventure explores prejudice, civilization, power, and humanity's destructive habits."
+  },
+  {
+    "name": "Looper",
+    "description": "A hired killer faces an impossible assignment when his future self becomes the target.\nThe time-travel thriller combines crime, consequence, sacrifice, and the possibility of change."
+  },
+  {
+    "name": "Annihilation",
+    "description": "A biologist enters a quarantined region where nature transforms in unsettling ways.\nThe science-fiction horror film explores grief, self-destruction, mutation, and the limits of understanding."
+  },
+  {
+    "name": "Dune",
+    "description": "A gifted heir enters a dangerous desert world central to an interstellar struggle for power.\nThe science-fiction epic examines destiny, colonialism, ecology, family, and political ambition."
+  },
+  {
+    "name": "Dune: Part Two",
+    "description": "A displaced heir joins desert fighters while navigating prophecy, love, and a growing war.\nThe expansive science-fiction drama explores revenge, faith, leadership, and the danger of messianic power."
+  },
+  {
+    "name": "The Lord of the Rings: The Two Towers",
+    "description": "Separated companions face gathering armies as the struggle for Middle-earth intensifies.\nThe fantasy adventure emphasizes loyalty, courage, temptation, and resistance against overwhelming power."
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "description": "Allies make a final stand while two travelers approach the heart of enemy territory.\nThe fantasy epic brings together sacrifice, friendship, mercy, and the burden of power."
+  },
+  {
+    "name": "Star Wars: A New Hope",
+    "description": "A farm boy joins rebels, smugglers, and mystics opposing a vast galactic empire.\nThe space fantasy celebrates adventure, friendship, courage, and hope against tyranny."
+  },
+  {
+    "name": "The Empire Strikes Back",
+    "description": "Rebel heroes are scattered while a young warrior trains and confronts a painful truth.\nThe darker space adventure explores temptation, identity, loyalty, and the cost of resistance."
+  },
+  {
+    "name": "Rogue One: A Star Wars Story",
+    "description": "A group of unlikely rebels attempts to steal plans for a devastating imperial weapon.\nThe space-war adventure focuses on sacrifice, solidarity, moral courage, and ordinary people resisting oppression."
+  },
+  {
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "description": "An orphan discovers a hidden magical world and begins school among new friends and dangers.\nThe family fantasy introduces wonder, belonging, courage, and the power of friendship."
+  },
+  {
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "description": "A young wizard confronts escaped threats while learning that familiar stories hide deeper truths.\nThe fantasy mystery explores fear, memory, loyalty, and growing emotional complexity."
+  },
+  {
+    "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "description": "A resourceful blacksmith joins an eccentric pirate to rescue a kidnapped governor's daughter.\nThe supernatural adventure mixes swordplay, romance, curses, and playful maritime comedy."
+  },
+  {
+    "name": "The Mummy",
+    "description": "Adventurers exploring an ancient Egyptian city accidentally awaken a powerful cursed priest.\nThe energetic fantasy blends archaeological adventure, horror, romance, and comedy."
+  },
+  {
+    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "description": "Four siblings enter a magical land trapped in winter under a cruel ruler.\nThe family fantasy explores bravery, betrayal, forgiveness, and the struggle between hope and oppression."
+  },
+  {
+    "name": "Stardust",
+    "description": "A young man crosses into a magical kingdom to retrieve a fallen star for someone he loves.\nThe romantic fantasy combines witches, sky pirates, adventure, humor, and unexpected self-discovery."
+  },
+  {
+    "name": "The Green Knight",
+    "description": "An impulsive young knight journeys to fulfill a dangerous promise made to a mysterious challenger.\nThe atmospheric fantasy reflects on honor, mortality, courage, and the stories people tell about themselves."
+  },
+  {
+    "name": "The Shape of Water",
+    "description": "A quiet cleaner at a secret laboratory forms a bond with an imprisoned aquatic being.\nThe romantic fantasy explores loneliness, otherness, compassion, and resistance to cruelty."
+  },
+  {
+    "name": "The Wizard of Oz",
+    "description": "A girl swept away by a storm travels through a magical land seeking a path home.\nThe musical fantasy celebrates friendship, courage, imagination, and appreciating where one belongs."
+  },
+  {
+    "name": "Willy Wonka & the Chocolate Factory",
+    "description": "A kind child wins entry to an eccentric confectioner's mysterious and wondrous factory.\nThe musical family fantasy mixes imagination, moral lessons, dark humor, and childhood wonder."
+  },
+  {
+    "name": "Labyrinth",
+    "description": "A teenager enters a shifting magical maze to rescue her baby brother from a goblin king.\nThe fantasy adventure explores responsibility, temptation, imagination, and growing up."
+  },
+  {
+    "name": "King Kong",
+    "description": "A filmmaking expedition discovers a colossal creature whose capture brings tragedy to a modern city.\nThe adventure epic combines spectacle with themes of exploitation, obsession, beauty, and loss."
+  },
+  {
+    "name": "Iron Man",
+    "description": "A weapons inventor builds an armored suit and begins reconsidering the consequences of his work.\nThe superhero adventure blends technology, humor, responsibility, and personal reinvention."
+  },
+  {
+    "name": "Logan",
+    "description": "An aging mutant reluctantly protects a young girl while confronting violence and a fading legacy.\nThe somber superhero western explores family, mortality, regret, and redemption."
+  },
+  {
+    "name": "Guardians of the Galaxy",
+    "description": "A band of interstellar misfits reluctantly unites around an object that could threaten countless worlds.\nThe space adventure mixes humor, action, found family, and unlikely heroism."
+  },
+  {
+    "name": "Aliens",
+    "description": "A survivor returns to a distant colony with soldiers after contact with its residents is lost.\nThe science-fiction action horror film explores trauma, leadership, motherhood, and survival."
+  },
+  {
+    "name": "Predator",
+    "description": "An elite rescue team in a remote jungle realizes it is being hunted by an unseen opponent.\nThe action thriller combines military tension, science fiction, primal fear, and survival."
+  },
+  {
+    "name": "The Fly",
+    "description": "A brilliant scientist's teleportation experiment begins transforming his body in horrifying ways.\nThe tragic body-horror film examines ambition, illness, intimacy, and loss of self."
+  },
+  {
+    "name": "Nope",
+    "description": "Siblings running a remote horse ranch investigate a strange presence in the sky.\nThe science-fiction horror mystery examines spectacle, exploitation, fear, and humanity's urge to capture the unbelievable."
+  },
+  {
+    "name": "Us",
+    "description": "A family's peaceful vacation turns terrifying when uncanny doubles appear outside their home.\nThe horror thriller explores identity, inequality, buried trauma, and the fear of oneself."
+  },
+  {
+    "name": "The Babadook",
+    "description": "A grieving mother and her son are haunted by a disturbing figure from a children's book.\nThe psychological horror film explores parenthood, isolation, anger, and unresolved grief."
+  },
+  {
+    "name": "Hereditary",
+    "description": "A family discovers increasingly disturbing secrets after the death of its secretive matriarch.\nThe psychological horror drama examines inherited trauma, grief, guilt, and loss of control."
+  },
+  {
+    "name": "Midsommar",
+    "description": "A troubled couple visits an isolated summer festival whose traditions become deeply unsettling.\nThe daylight folk-horror film explores grief, dependency, belonging, and emotional manipulation."
+  },
+  {
+    "name": "The Witch",
+    "description": "A banished family in colonial New England faces fear and suspicion near a dark forest.\nThe folk-horror drama explores religious dread, repression, family conflict, and autonomy."
+  },
+  {
+    "name": "It Follows",
+    "description": "A young woman is pursued by a supernatural presence that slowly assumes different human forms.\nThe atmospheric horror film examines anxiety, intimacy, mortality, and inescapable consequence."
+  },
+  {
+    "name": "The Conjuring",
+    "description": "Paranormal investigators help a family facing a hostile presence in an isolated farmhouse.\nThe supernatural horror film builds tension through faith, family bonds, and unseen danger."
+  },
+  {
+    "name": "Scream",
+    "description": "A masked killer targets teenagers who understand the rules and clichés of horror movies.\nThe sharp slasher blends suspense, dark comedy, self-awareness, and mystery."
+  },
+  {
+    "name": "Halloween",
+    "description": "An escaped killer returns to a quiet town and stalks teenagers on Halloween night.\nThe minimalist slasher creates dread through suspense, vulnerability, and an apparently unstoppable threat."
+  },
+  {
+    "name": "A Nightmare on Elm Street",
+    "description": "Teenagers discover that a killer can attack them inside their dreams.\nThe supernatural slasher turns sleep into a battleground of fear, imagination, and survival."
+  },
+  {
+    "name": "The Texas Chain Saw Massacre",
+    "description": "A group of young travelers encounters a terrifying family in the rural countryside.\nThe raw horror film creates relentless tension around isolation, violence, and social decay."
+  },
+  {
+    "name": "The Blair Witch Project",
+    "description": "Student filmmakers disappear while investigating a local legend in a Maryland forest.\nThe found-footage horror film uses uncertainty, darkness, and disorientation to create mounting dread."
+  },
+  {
+    "name": "Saw",
+    "description": "Two strangers awaken in a locked room and face a cruel test designed by an unseen captor.\nThe horror mystery combines moral dilemmas, desperation, elaborate traps, and a race against time."
+  },
+  {
+    "name": "The Cabin in the Woods",
+    "description": "A weekend retreat follows familiar horror patterns until a larger design begins to emerge.\nThe inventive horror comedy plays with genre conventions, manipulation, sacrifice, and audience expectations."
+  },
+  {
+    "name": "Shaun of the Dead",
+    "description": "An unmotivated salesman tries to save his loved ones during a sudden zombie outbreak.\nThe horror comedy balances friendship, romance, ordinary frustration, and bloody survival."
+  },
+  {
+    "name": "The Lighthouse",
+    "description": "Two lighthouse keepers on a remote island descend into conflict and uncertainty.\nThe psychological horror drama explores isolation, power, guilt, myth, and unreliable perception."
+  },
+  {
+    "name": "The Incredibles",
+    "description": "A family of retired superheroes struggles with ordinary life before a new threat emerges.\nThe animated adventure explores family roles, identity, teamwork, and the desire to use one's gifts."
+  },
+  {
+    "name": "Ratatouille",
+    "description": "A gifted rat secretly pursues his passion for cooking in a celebrated Paris restaurant.\nThe animated comedy celebrates creativity, mentorship, persistence, and talent from unexpected places."
+  },
+  {
+    "name": "Finding Nemo",
+    "description": "An anxious father crosses the ocean to find his young son after they are separated.\nThe animated adventure explores parenthood, trust, courage, friendship, and letting go."
+  },
+  {
+    "name": "Up",
+    "description": "An elderly widower lifts his home into the sky and unexpectedly gains a young companion.\nThe animated adventure balances grief, friendship, wonder, and opening oneself to a new life."
+  },
+  {
+    "name": "Inside Out",
+    "description": "The emotions inside a young girl's mind struggle to guide her through a difficult move.\nThe animated family film makes room for sadness while exploring memory, change, and emotional growth."
+  },
+  {
+    "name": "Monsters, Inc.",
+    "description": "Two factory workers in a monster world encounter a human child who changes their assumptions.\nThe animated comedy explores friendship, fear, empathy, and questioning an unjust system."
+  },
+  {
+    "name": "Shrek",
+    "description": "A solitary ogre reluctantly undertakes a rescue mission alongside an endlessly talkative donkey.\nThe animated fairy-tale comedy celebrates self-acceptance, friendship, and looking beyond appearances."
+  },
+  {
+    "name": "How to Train Your Dragon",
+    "description": "A young Viking befriends an injured dragon despite his community's fear of the creatures.\nThe animated fantasy explores empathy, courage, family expectations, and changing inherited beliefs."
+  },
+  {
+    "name": "Kubo and the Two Strings",
+    "description": "A young storyteller begins a magical quest to uncover his family's history and protect himself.\nThe stop-motion fantasy explores memory, grief, courage, and the enduring power of stories."
+  },
+  {
+    "name": "Coraline",
+    "description": "A curious girl discovers an inviting alternate home that hides a controlling and sinister purpose.\nThe stop-motion fantasy blends wonder and horror while exploring family, bravery, and deceptive perfection."
+  },
+  {
+    "name": "The Iron Giant",
+    "description": "A boy befriends a massive robot from space while government agents close in.\nThe animated science-fiction drama explores friendship, fear, sacrifice, and choosing who one becomes."
+  },
+  {
+    "name": "The Mitchells vs. the Machines",
+    "description": "A disconnected family road trip becomes humanity's unlikely defense against a machine uprising.\nThe animated comedy celebrates imperfect families, creativity, technology, and reconnecting with one another."
+  },
+  {
+    "name": "The Lego Movie",
+    "description": "An ordinary construction worker is mistaken for the hero destined to save a block-built world.\nThe animated comedy mixes imagination, teamwork, satire, and the joy of creating freely."
+  },
+  {
+    "name": "The Nightmare Before Christmas",
+    "description": "The ruler of a Halloween world becomes fascinated with Christmas and tries to recreate it.\nThe stop-motion musical explores curiosity, identity, creativity, and appreciating one's own strengths."
+  },
+  {
+    "name": "Beauty and the Beast",
+    "description": "A book-loving young woman becomes the guest of a cursed prince in an enchanted castle.\nThe animated musical fairy tale explores compassion, transformation, freedom, and love beyond appearances."
+  },
+  {
+    "name": "Aladdin",
+    "description": "A kind street thief discovers a magical lamp and tries to win a princess's heart.\nThe animated musical adventure explores honesty, freedom, friendship, and being comfortable with oneself."
+  },
+  {
+    "name": "Mulan",
+    "description": "A young woman secretly takes her father's place when her country calls men to war.\nThe animated adventure explores duty, courage, identity, and challenging restrictive expectations."
+  },
+  {
+    "name": "Moana",
+    "description": "A determined islander sails beyond familiar waters to restore balance to her threatened home.\nThe animated musical adventure celebrates heritage, exploration, leadership, and finding one's calling."
+  },
+  {
+    "name": "Encanto",
+    "description": "A girl without magical powers tries to understand why her extraordinary family's home is weakening.\nThe animated musical explores family pressure, intergenerational pain, belonging, and honest communication."
+  },
+  {
+    "name": "Soul",
+    "description": "A music teacher separated from his body reevaluates what makes a life meaningful.\nThe animated fantasy reflects on purpose, passion, everyday joy, and being present."
+  },
+  {
+    "name": "Airplane!",
+    "description": "A nervous former pilot must help land a passenger plane after the crew becomes ill.\nThe rapid-fire comedy parodies disaster films through absurd wordplay, visual jokes, and deadpan performances."
+  },
+  {
+    "name": "Monty Python and the Holy Grail",
+    "description": "King Arthur and his knights face ridiculous obstacles while searching for a sacred relic.\nThe irreverent comedy dismantles heroic legend through absurdity, wordplay, and anarchic imagination."
+  },
+  {
+    "name": "Monty Python's Life of Brian",
+    "description": "An ordinary man born near a famous religious figure is repeatedly mistaken for a messiah.\nThe satirical comedy examines conformity, authority, belief, and humanity's talent for misunderstanding."
+  },
+  {
+    "name": "This Is Spinal Tap",
+    "description": "A documentary crew follows an aging rock band through an increasingly disastrous tour.\nThe mockumentary comedy affectionately satirizes ego, celebrity, creative conflict, and music-industry excess."
+  },
+  {
+    "name": "Hot Fuzz",
+    "description": "An exceptional city police officer is transferred to a picturesque village with suspiciously little crime.\nThe action comedy blends mystery, friendship, genre parody, and elaborately staged chaos."
+  },
+  {
+    "name": "Bridesmaids",
+    "description": "A struggling woman tries to support her best friend's wedding while competing with a polished new acquaintance.\nThe ensemble comedy explores friendship, insecurity, adulthood, and spectacular social embarrassment."
+  },
+  {
+    "name": "Superbad",
+    "description": "Two inseparable teenagers chase one memorable night before graduation sends them in different directions.\nThe coming-of-age comedy mixes crude mishaps with friendship, anxiety, and fear of change."
+  },
+  {
+    "name": "The Hangover",
+    "description": "Friends awaken after a chaotic celebration with no memory and one missing member of their group.\nThe comedy follows their frantic reconstruction of the night through escalating clues and consequences."
+  },
+  {
+    "name": "Anchorman: The Legend of Ron Burgundy",
+    "description": "A self-important television newsman feels threatened when an ambitious woman joins his team.\nThe absurd workplace comedy satirizes vanity, sexism, rivalry, and broadcast culture."
+  },
+  {
+    "name": "Tropic Thunder",
+    "description": "Actors making a war movie are dropped into real danger without fully understanding the situation.\nThe action comedy satirizes Hollywood ego, performance, awards culture, and reckless filmmaking."
+  },
+  {
+    "name": "Office Space",
+    "description": "A frustrated office worker stops caring about his job and accidentally becomes management material.\nThe workplace comedy captures bureaucracy, alienation, friendship, and fantasies of escaping corporate routine."
+  },
+  {
+    "name": "Napoleon Dynamite",
+    "description": "An awkward teenager navigates school, family oddities, and a friend's campaign for class president.\nThe understated comedy finds warmth in eccentricity, loyalty, confidence, and small-town life."
+  },
+  {
+    "name": "Borat",
+    "description": "A fictional foreign reporter travels across America while exposing the prejudices of people he meets.\nThe provocative mockumentary uses discomfort, improvisation, and satire to examine culture and hypocrisy."
+  },
+  {
+    "name": "Palm Springs",
+    "description": "Two wedding guests become trapped reliving the same day and develop an unexpected connection.\nThe romantic comedy uses a time loop to explore commitment, loneliness, meaning, and change."
+  },
+  {
+    "name": "When Harry Met Sally...",
+    "description": "Two acquaintances cross paths over many years while debating whether friendship can remain uncomplicated.\nThe romantic comedy explores timing, intimacy, compatibility, and the gradual growth of love."
+  },
+  {
+    "name": "Notting Hill",
+    "description": "A quiet London bookseller begins a relationship with one of the world's most famous actors.\nThe romantic comedy explores privacy, celebrity, vulnerability, and affection across very different lives."
+  },
+  {
+    "name": "Crazy Rich Asians",
+    "description": "A professor travels with her boyfriend to Singapore and discovers his family's extraordinary wealth.\nThe romantic comedy explores cultural identity, family expectations, class, and choosing one's own future."
+  },
+  {
+    "name": "My Big Fat Greek Wedding",
+    "description": "A woman from a close-knit Greek family falls for a man outside her community.\nThe romantic comedy celebrates family chaos, cultural tradition, self-confidence, and compromise."
+  },
+  {
+    "name": "The 40-Year-Old Virgin",
+    "description": "Well-meaning coworkers try to transform a shy man's romantic life after learning his secret.\nThe comedy balances awkward humor with friendship, emotional honesty, and adult vulnerability."
+  },
+  {
+    "name": "Trading Places",
+    "description": "Wealthy financiers secretly swap the circumstances of a privileged employee and a street hustler.\nThe social comedy uses reversal and revenge to satirize class, markets, prejudice, and inherited advantage."
+  },
+  {
+    "name": "The Godfather Part II",
+    "description": "A crime boss consolidates power as the story of his father's rise unfolds in parallel.\nThe sweeping drama examines family, ambition, immigration, loyalty, and the isolating cost of control."
+  },
+  {
+    "name": "Heat",
+    "description": "A meticulous detective pursues an equally disciplined professional thief through Los Angeles.\nThe crime thriller explores obsession, loneliness, respect, and the personal cost of total commitment."
+  },
+  {
+    "name": "L.A. Confidential",
+    "description": "Three very different police officers investigate corruption beneath glamorous postwar Los Angeles.\nThe noir mystery examines ambition, violence, celebrity, justice, and compromised institutions."
+  },
+  {
+    "name": "The Usual Suspects",
+    "description": "A survivor recounts how a group of criminals became entangled with a legendary underworld figure.\nThe crime mystery plays with unreliable storytelling, manipulation, fear, and hidden identity."
+  },
+  {
+    "name": "Reservoir Dogs",
+    "description": "Criminals regroup after a failed robbery and suspect that one of them is an informant.\nThe tense crime drama explores distrust, loyalty, violence, and fractured professionalism."
+  },
+  {
+    "name": "Fargo",
+    "description": "A desperate man's poorly planned crime collides with a quietly determined police chief.\nThe darkly comic thriller contrasts greed and brutality with decency, patience, and ordinary life."
+  },
+  {
+    "name": "Mystic River",
+    "description": "A murder reunites childhood friends whose lives were shaped by an earlier trauma.\nThe crime drama examines grief, suspicion, vengeance, community, and the lasting damage of violence."
+  },
+  {
+    "name": "Prisoners",
+    "description": "A desperate father takes extreme action when two children disappear and the investigation stalls.\nThe dark thriller explores morality, grief, obsession, faith, and the limits of justice."
+  },
+  {
+    "name": "Gone Girl",
+    "description": "A woman's disappearance turns her marriage into a national spectacle and her husband into a suspect.\nThe psychological mystery examines performance, resentment, media narratives, and intimate manipulation."
+  },
+  {
+    "name": "Zodiac",
+    "description": "Reporters and investigators become consumed by the long search for an elusive serial killer.\nThe procedural thriller focuses on obsession, uncertainty, evidence, and lives shaped by an unsolved case."
+  },
+  {
+    "name": "Nightcrawler",
+    "description": "An ambitious outsider discovers that filming violent nighttime news can be highly profitable.\nThe dark thriller satirizes media ethics, exploitation, capitalism, and ruthless self-invention."
+  },
+  {
+    "name": "Collateral",
+    "description": "A taxi driver is forced to transport a professional killer through one dangerous night.\nThe urban thriller explores isolation, chance, courage, and the lives people postpone."
+  },
+  {
+    "name": "Sicario",
+    "description": "An idealistic agent joins a secretive operation targeting a powerful drug network near the border.\nThe crime thriller examines moral compromise, institutional violence, fear, and hidden agendas."
+  },
+  {
+    "name": "Wind River",
+    "description": "A wildlife tracker helps investigate a young woman's death on a remote reservation.\nThe wintry crime drama explores grief, neglected communities, justice, and survival in an unforgiving landscape."
+  },
+  {
+    "name": "Hell or High Water",
+    "description": "Two brothers rob banks across West Texas while a veteran ranger follows their trail.\nThe modern western explores economic desperation, family loyalty, justice, and communities left behind."
+  },
+  {
+    "name": "The Town",
+    "description": "A skilled bank robber's growing attachment to a witness threatens his crew and planned escape.\nThe crime thriller explores loyalty, inherited violence, identity, and the hope of starting over."
+  },
+  {
+    "name": "Inside Man",
+    "description": "A detective negotiates with a clever bank robber whose carefully planned siege hides another purpose.\nThe crime thriller combines strategy, corruption, social tension, and shifting assumptions."
+  },
+  {
+    "name": "Ocean's Eleven",
+    "description": "A charismatic thief assembles a specialist team to rob three casinos in one night.\nThe stylish heist comedy celebrates teamwork, confidence, clever planning, and playful deception."
+  },
+  {
+    "name": "Catch Me If You Can",
+    "description": "A gifted young impersonator travels widely while a persistent federal agent follows his trail.\nThe crime comedy-drama explores reinvention, loneliness, mentorship, and the appeal of deception."
+  },
+  {
+    "name": "Chinatown",
+    "description": "A private detective investigating an affair uncovers a deeper conspiracy involving water and power.\nThe neo-noir mystery explores corruption, wealth, helplessness, and the darkness beneath civic respectability."
+  },
+  {
+    "name": "Casablanca",
+    "description": "An American expatriate in wartime Morocco must choose between lost love and a larger cause.\nThe romantic drama explores sacrifice, regret, resistance, and moral responsibility."
+  },
+  {
+    "name": "Citizen Kane",
+    "description": "A reporter investigates the final word of a powerful publisher whose life was marked by ambition and isolation.\nThe drama examines memory, wealth, media influence, and the limits of knowing another person."
+  },
+  {
+    "name": "Sunset Boulevard",
+    "description": "A struggling screenwriter becomes entangled with a forgotten silent-film star longing for a comeback.\nThe dark Hollywood drama explores fame, denial, exploitation, and the cruelty of an industry obsessed with youth."
+  },
+  {
+    "name": "Rear Window",
+    "description": "A photographer confined to his apartment begins suspecting that a neighbor committed murder.\nThe suspense mystery examines voyeurism, curiosity, relationships, and the uncertainty of observation."
+  },
+  {
+    "name": "Vertigo",
+    "description": "A retired detective becomes obsessed with a mysterious woman he was hired to follow.\nThe psychological mystery explores desire, identity, control, illusion, and destructive fixation."
+  },
+  {
+    "name": "North by Northwest",
+    "description": "An advertising executive mistaken for a spy is chased across the country by dangerous agents.\nThe adventure thriller combines mistaken identity, romance, suspense, and elegant humor."
+  },
+  {
+    "name": "Psycho",
+    "description": "A traveler seeking a fresh start stops at an isolated motel run by a nervous young man.\nThe psychological horror film explores secrecy, guilt, identity, and terror hidden within ordinary places."
+  },
+  {
+    "name": "Double Indemnity",
+    "description": "An insurance salesman is drawn into a plan to murder a wealthy woman's husband.\nThe film noir examines greed, desire, betrayal, suspicion, and the tightening consequences of crime."
+  },
+  {
+    "name": "Some Like It Hot",
+    "description": "Two musicians disguise themselves to join an all-women band while fleeing dangerous gangsters.\nThe classic comedy mixes romance, mistaken identity, performance, and rapid-fire farce."
+  },
+  {
+    "name": "Singin' in the Rain",
+    "description": "Silent-film stars struggle to adapt when talking pictures transform the movie industry.\nThe joyful musical celebrates performance, creativity, romance, and the chaos behind Hollywood glamour."
+  },
+  {
+    "name": "Roman Holiday",
+    "description": "A sheltered princess escapes official duties and explores Rome with an American reporter.\nThe romantic comedy balances freedom, affection, responsibility, and the bittersweet limits of circumstance."
+  },
+  {
+    "name": "It's a Wonderful Life",
+    "description": "A discouraged man is shown how deeply his ordinary life has affected his community.\nThe holiday drama explores sacrifice, connection, despair, gratitude, and the value of everyday kindness."
+  },
+  {
+    "name": "On the Waterfront",
+    "description": "A former boxer working on the docks faces pressure to remain silent about union corruption.\nThe social drama examines conscience, loyalty, intimidation, dignity, and moral courage."
+  },
+  {
+    "name": "All About Eve",
+    "description": "An ambitious admirer enters the inner circle of an established stage actor and quietly pursues her career.\nThe sharp drama explores fame, aging, performance, rivalry, and calculated ambition."
+  },
+  {
+    "name": "One Flew Over the Cuckoo's Nest",
+    "description": "A rebellious patient challenges the rigid authority controlling life inside a psychiatric institution.\nThe drama explores freedom, conformity, solidarity, power, and the costs of resistance."
+  },
+  {
+    "name": "Taxi Driver",
+    "description": "An isolated veteran driving nights through New York becomes increasingly consumed by anger and delusion.\nThe psychological drama examines loneliness, alienation, violence, and distorted ideas of rescue."
+  },
+  {
+    "name": "Network",
+    "description": "A television anchor's public breakdown becomes profitable entertainment for an ambitious network.\nThe media satire examines corporate power, outrage, exploitation, and the conversion of reality into spectacle."
+  },
+  {
+    "name": "Dog Day Afternoon",
+    "description": "An inexperienced bank robbery turns into a prolonged public standoff on a hot city afternoon.\nThe crime drama blends tension and humor while exploring desperation, media attention, and human vulnerability."
+  },
+  {
+    "name": "Rocky",
+    "description": "A struggling boxer receives an unlikely opportunity to face the heavyweight champion.\nThe sports drama focuses on dignity, discipline, romance, and proving one's worth beyond winning."
+  },
+  {
+    "name": "Raging Bull",
+    "description": "A gifted boxer's violent jealousy and insecurity damage his career and closest relationships.\nThe uncompromising drama explores masculinity, self-destruction, fame, and the search for redemption."
+  },
+  {
+    "name": "Schindler's List",
+    "description": "A German industrialist gradually risks his fortune and safety to protect Jewish workers during the Holocaust.\nThe historical drama confronts genocide, complicity, moral awakening, and the value of individual lives."
+  },
+  {
+    "name": "12 Years a Slave",
+    "description": "A free Black musician is kidnapped and forced into slavery in the American South.\nThe historical drama portrays endurance, dehumanization, identity, and the brutality of an unjust system."
+  },
+  {
+    "name": "Lincoln",
+    "description": "A wartime president works to abolish slavery while navigating a divided legislature and country.\nThe historical drama explores political compromise, moral purpose, leadership, and democratic process."
+  },
+  {
+    "name": "Malcolm X",
+    "description": "A charismatic activist's life evolves through crime, faith, leadership, and ideological transformation.\nThe biographical drama examines racism, identity, self-education, political awakening, and legacy."
+  },
+  {
+    "name": "Gandhi",
+    "description": "A lawyer develops a movement of nonviolent resistance against colonial rule in India.\nThe historical biography explores conscience, leadership, mass politics, sacrifice, and the contradictions of national change."
+  },
+  {
+    "name": "Hidden Figures",
+    "description": "Black women mathematicians at NASA overcome institutional barriers while supporting the early space program.\nThe historical drama celebrates intellect, persistence, teamwork, and challenges to racism and sexism."
+  },
+  {
+    "name": "Spotlight",
+    "description": "Investigative reporters uncover widespread abuse and institutional concealment within a powerful church.\nThe journalism drama emphasizes patient research, accountability, teamwork, and the courage of survivors."
+  },
+  {
+    "name": "All the President's Men",
+    "description": "Two reporters follow a political break-in toward a conspiracy reaching the highest levels of government.\nThe procedural drama focuses on verification, persistence, anonymous sources, and democratic accountability."
+  },
+  {
+    "name": "Argo",
+    "description": "A specialist creates an unlikely film production as cover for rescuing diplomats from a hostage crisis.\nThe historical thriller combines deception, international tension, teamwork, and a race against discovery."
+  },
+  {
+    "name": "Zero Dark Thirty",
+    "description": "An intelligence analyst spends years pursuing the hidden leader of a terrorist organization.\nThe procedural thriller examines obsession, secrecy, contested methods, and the human cost of prolonged pursuit."
+  },
+  {
+    "name": "The Hurt Locker",
+    "description": "A bomb-disposal team navigates deadly assignments and strained relationships during the Iraq War.\nThe war drama explores risk, adrenaline, trauma, and the difficulty of returning to ordinary life."
+  },
+  {
+    "name": "Platoon",
+    "description": "A young volunteer in Vietnam is caught between commanders with opposing moral approaches to war.\nThe combat drama examines fear, loyalty, brutality, disillusionment, and conflict within one's own side."
+  },
+  {
+    "name": "Full Metal Jacket",
+    "description": "Young recruits endure dehumanizing training before confronting the chaos of the Vietnam War.\nThe war drama explores institutional conditioning, identity, cruelty, and emotional detachment."
+  },
+  {
+    "name": "Apocalypse Now",
+    "description": "An officer travels deep into a war zone to find a commander who has abandoned military authority.\nThe hallucinatory war epic examines madness, imperial power, moral collapse, and the darkness of violence."
+  },
+  {
+    "name": "1917",
+    "description": "Two young soldiers cross enemy territory to deliver a message that could prevent a massacre.\nThe immersive war thriller emphasizes urgency, endurance, friendship, and courage under relentless pressure."
+  },
+  {
+    "name": "Dunkirk",
+    "description": "Soldiers, pilots, and civilians converge during the desperate evacuation of an encircled army.\nThe war thriller portrays survival, collective effort, fear, and heroism across land, sea, and air."
+  },
+  {
+    "name": "The Thin Red Line",
+    "description": "American soldiers fight for a Pacific island while reflecting on nature, fear, and human violence.\nThe meditative war drama contrasts inner life and natural beauty with destruction and military duty."
+  },
+  {
+    "name": "Lawrence of Arabia",
+    "description": "A British officer becomes deeply involved in an Arab revolt during the First World War.\nThe historical epic explores identity, charisma, colonialism, ambition, and the mythology of leadership."
+  },
+  {
+    "name": "The Bridge on the River Kwai",
+    "description": "Prisoners of war are forced to build a railway bridge while competing ideas of duty take hold.\nThe war drama examines pride, discipline, collaboration, obsession, and the absurdity of conflict."
+  },
+  {
+    "name": "Oppenheimer",
+    "description": "A physicist leads the development of an unprecedented weapon and later confronts its political and moral aftermath.\nThe historical drama explores scientific ambition, responsibility, power, and public judgment."
+  },
+  {
+    "name": "There Will Be Blood",
+    "description": "An ambitious oil prospector builds an empire while clashing with a charismatic preacher.\nThe period drama examines capitalism, faith, family, greed, and corrosive isolation."
+  },
+  {
+    "name": "Boogie Nights",
+    "description": "A directionless young man finds fame and a surrogate family in the adult-film industry.\nThe ensemble drama explores ambition, belonging, excess, exploitation, and changing cultural tastes."
+  },
+  {
+    "name": "The Master",
+    "description": "A troubled veteran falls under the influence of a charismatic leader building a spiritual movement.\nThe psychological drama explores control, belief, trauma, friendship, and the desire for direction."
+  },
+  {
+    "name": "Magnolia",
+    "description": "Interconnected people across Los Angeles confront regret, illness, loneliness, and unexpected coincidence.\nThe ensemble drama explores forgiveness, family wounds, chance, and the need for human connection."
+  },
+  {
+    "name": "Birdman",
+    "description": "A former superhero star risks his reputation and sanity while mounting an ambitious Broadway play.\nThe dark comedy examines ego, artistic relevance, family strain, and the hunger for recognition."
+  },
+  {
+    "name": "The Revenant",
+    "description": "A wounded frontiersman struggles through a brutal wilderness after being abandoned by his companions.\nThe survival drama explores endurance, revenge, grief, and humanity's fragile place in nature."
+  },
+  {
+    "name": "The Irishman",
+    "description": "An aging truck driver looks back on decades spent serving organized crime and powerful labor figures.\nThe crime epic reflects on loyalty, violence, regret, aging, and the emptiness left by a ruthless life."
+  },
+  {
+    "name": "Killers of the Flower Moon",
+    "description": "A series of deaths within a wealthy Indigenous community reveals an intimate conspiracy driven by greed.\nThe historical crime drama examines exploitation, racism, complicity, marriage, and institutional betrayal."
+  },
+  {
+    "name": "Manchester by the Sea",
+    "description": "A withdrawn handyman returns to his hometown after a death forces him to face family responsibility.\nThe drama explores grief, guilt, care, and the reality that some wounds do not neatly heal."
+  },
+  {
+    "name": "Aftersun",
+    "description": "A woman remembers a childhood holiday with her young father and reconsiders what she could not then understand.\nThe intimate drama explores memory, parenthood, depression, love, and the distance between experience and recollection."
+  },
+  {
+    "name": "Nomadland",
+    "description": "A woman travels through the American West taking temporary work after losing her hometown and livelihood.\nThe quiet drama explores economic precarity, grief, freedom, community, and life outside conventional stability."
+  },
+  {
+    "name": "Sound of Metal",
+    "description": "A drummer experiencing rapid hearing loss must reconsider his music, relationships, and sense of self.\nThe drama explores disability, addiction recovery, acceptance, communication, and the search for stillness."
+  },
+  {
+    "name": "The Florida Project",
+    "description": "A lively child finds adventure around a budget motel while her young mother struggles to survive.\nThe compassionate drama contrasts childhood wonder with poverty, insecurity, community, and adult desperation."
+  },
+  {
+    "name": "Room",
+    "description": "A mother and her young son endure confinement before facing the unfamiliar world beyond it.\nThe drama explores survival, trauma, parenthood, freedom, and the difficult process of recovery."
+  },
+  {
+    "name": "The Father",
+    "description": "An aging man experiencing dementia struggles to understand shifting people, spaces, and memories.\nThe intimate drama portrays confusion, vulnerability, family strain, and the erosion of a stable reality."
+  },
+  {
+    "name": "The Wrestler",
+    "description": "An aging professional wrestler tries to rebuild his life and relationships outside the ring.\nThe character drama explores identity, physical decline, loneliness, performance, and the pull of familiar applause."
+  },
+  {
+    "name": "The Whale",
+    "description": "A reclusive teacher living with severe obesity attempts to reconnect with his estranged daughter.\nThe chamber drama examines shame, grief, compassion, faith, and the need for honest connection."
+  },
+  {
+    "name": "The Green Mile",
+    "description": "A prison guard encounters a condemned man whose extraordinary gift challenges assumptions about guilt and grace.\nThe supernatural drama explores compassion, injustice, mortality, and moral responsibility."
+  },
+  {
+    "name": "The Curious Case of Benjamin Button",
+    "description": "A man who ages backward experiences love, loss, travel, and the passage of time in an unusual order.\nThe romantic fantasy reflects on mortality, change, memory, and relationships that cannot escape time."
+  },
+  {
+    "name": "Cast Away",
+    "description": "A time-obsessed delivery executive becomes stranded alone on a remote island.\nThe survival drama explores isolation, adaptation, hope, and returning to a world that continued without him."
+  },
+  {
+    "name": "Before Sunrise",
+    "description": "Two young travelers meet on a train and spend one night walking and talking through Vienna.\nThe romantic drama explores connection, possibility, time, and the intimacy of honest conversation."
+  },
+  {
+    "name": "Before Sunset",
+    "description": "Former travelers reunite years later and walk through Paris with limited time to confront their past.\nThe romantic drama explores memory, regret, adult compromise, and feelings that never fully disappeared."
+  },
+  {
+    "name": "About Time",
+    "description": "A young man able to revisit moments in his life uses the gift to pursue love and repair mistakes.\nThe romantic fantasy becomes a reflection on family, loss, gratitude, and appreciating ordinary days."
+  },
+  {
+    "name": "The Notebook",
+    "description": "A passionate romance between two young people is tested by class expectations, separation, and time.\nThe romantic drama explores memory, devotion, family pressure, and enduring love."
+  },
+  {
+    "name": "Atonement",
+    "description": "A young girl's damaging accusation alters several lives on the eve of war.\nThe romantic period drama explores guilt, imagination, class, loss, and the limits of artistic redemption."
+  },
+  {
+    "name": "Carol",
+    "description": "An aspiring photographer and an older woman form a deep connection in a restrictive era.\nThe romantic drama explores desire, social pressure, independence, and the courage to choose an authentic life."
+  },
+  {
+    "name": "Brokeback Mountain",
+    "description": "Two ranch workers form an intimate bond that continues across years of separate lives.\nThe romantic drama explores repression, longing, masculinity, social judgment, and lasting love."
+  },
+  {
+    "name": "Silver Linings Playbook",
+    "description": "Two emotionally struggling people form an unpredictable partnership around a dance competition.\nThe romantic comedy-drama explores mental health, family, recovery, honesty, and unconventional connection."
+  },
+  {
+    "name": "Jerry Maguire",
+    "description": "A sports agent's crisis of conscience costs him his career and pushes him toward a more honest life.\nThe romantic comedy-drama explores ambition, loyalty, intimacy, and redefining success."
+  },
+  {
+    "name": "Moneyball",
+    "description": "A baseball executive challenges tradition by building a competitive team through statistical analysis.\nThe sports drama explores innovation, resistance, leadership, value, and changing how talent is understood."
+  },
+  {
+    "name": "Remember the Titans",
+    "description": "A newly integrated high-school football team faces racial tension under demanding new leadership.\nThe sports drama emphasizes teamwork, prejudice, discipline, friendship, and community change."
+  },
+  {
+    "name": "Creed",
+    "description": "A young boxer seeks training from an aging champion while trying to build an identity beyond his family name.\nThe sports drama explores legacy, mentorship, grief, love, and earning one's own place."
+  },
+  {
+    "name": "Rush",
+    "description": "Two contrasting Formula One drivers push each other through a fierce and dangerous rivalry.\nThe racing drama explores ambition, fear, discipline, respect, and different approaches to risk."
+  },
+  {
+    "name": "The Fighter",
+    "description": "A boxer tries to revive his career while navigating loyalty to a chaotic and controlling family.\nThe sports drama explores addiction, ambition, sibling bonds, self-belief, and breaking unhealthy patterns."
+  },
+  {
+    "name": "Billy Elliot",
+    "description": "A boy in a struggling mining town discovers a passion for ballet despite social expectations.\nThe coming-of-age drama explores talent, masculinity, family sacrifice, and pursuing an unconventional dream."
+  },
+  {
+    "name": "Almost Famous",
+    "description": "A teenage writer joins a rising rock band on tour and sees the reality behind its glamorous image.\nThe coming-of-age drama explores music, belonging, integrity, friendship, and disillusionment."
+  },
+  {
+    "name": "The Blues Brothers",
+    "description": "Two musical brothers reunite their old band to raise money for the home that raised them.\nThe action comedy celebrates rhythm and blues through wild chases, deadpan humor, and joyful performances."
+  },
+  {
+    "name": "Moulin Rouge!",
+    "description": "A young writer falls for a celebrated performer inside a dazzling Paris nightclub.\nThe romantic musical combines pop songs, theatrical spectacle, artistic idealism, jealousy, and tragedy."
+  },
+  {
+    "name": "A Star Is Born",
+    "description": "A successful musician helps a talented singer find fame as his own stability begins to collapse.\nThe romantic music drama explores creativity, addiction, ambition, love, and unequal paths through success."
+  },
+  {
+    "name": "Chicago",
+    "description": "Two accused performers compete for celebrity and public sympathy in a sensational murder trial.\nThe musical satire examines fame, media manipulation, ambition, and justice as entertainment."
+  }
+]
